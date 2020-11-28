@@ -34,10 +34,12 @@
 - **redux-scuttlebutt-signatures**  
   https://github.com/grrowl/redux-signatures  
   Cryptographic signing of your redux (or flux) actions 
-  
-- **redux-ipc**  
+
+~~- **redux-ipc**
+    - **[TESTED]**
+    - **[DEV_STATUS: Prototype]**
   https://github.com/vutran/redux-ipc  
-  Log your Redux state and actions to a node backend via WebSockets.
+  Log your Redux state and actions to a node backend via WebSockets.~~
   
 - **redux-action-sync**  
   https://github.com/czak/redux-action-sync  
