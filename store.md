@@ -24,7 +24,7 @@
   https://github.com/philholden/redux-swarmlog  
   A super simple way of writing distributed Redux applications. The Redux action log is persisted in an IndexDB and synced with other peers via a WebRTC Swarm using Swarmlog.
   
-- **redux-scuttlebutt**  
+- **redux-scuttlebutt**  [TESTED] [SPEED: Slow] [COMMENTS: Seems very robust, but not good for *quickly* synchronizing all actions in a complex state tree due to "agreement" having to be reached for propagation]
   https://github.com/grrowl/redux-scuttlebutt  
   Self-replicating, self-ordering log of actions shared between all clients. Using the power behind redux's hot reloading and time travel, your client dispatches actions itself and so does every other client, they share the state, and it all just works.
   
