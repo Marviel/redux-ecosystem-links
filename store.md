@@ -42,12 +42,15 @@
   Log your Redux state and actions to a node backend via WebSockets.~~
   
 - **redux-action-sync**  
+  - **[TESTED]**
+  - **[DEV_STATUS: Prototype]**
+  - **[NEEDS_MET: Action-Based Synchronization]**
   https://github.com/czak/redux-action-sync  
   redux-action-sync is an action persistence middleware for Redux applications. A simple solution for keeping state synchronised across multiple clients. It uses a single-endpoint backend as an alternative to CRUD APIs.
   
-- **redux-electron-store**  
+~~- **redux-electron-store**  
   https://github.com/samiskin/redux-electron-store/  
-  A redux store enhancer that allows automatic synchronization between electron processes
+  A redux store enhancer that allows automatic synchronization between electron processes~~
 
 - **redux-peerjs-store-enhancer**  
   https://github.com/jurassix/redux-peerjs-store-enhancer  
